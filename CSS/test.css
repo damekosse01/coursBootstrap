@@ -49,38 +49,27 @@ h1{
 
 /* Tablette*/
 @media screen and (min-width:481px) and (max-width:768px) {
-    body{
-        background-color: rgb(190, 8, 166);
     
-    }
     .card{margin: 15px;
     }
 }
 /*Laptop*/
 @media screen and (min-width:769px) and (max-width:1024px) {
-    body{
-        background-color: rgb(90, 190, 8);
-  
-       }  
+    b
        .card{margin: 15px;
     }
 }
 /*grand écran*/
 
 @media screen and (min-width:1025px) and (max-width:1200px) {
-    body{
-        background-color: rgb(190, 66, 8);
-
-    }   
+    
      .card{margin: 15px;
         }
 }
 
 /*extra large */
 @media screen and (min-width:1201px)  {
-    body{
-        background-color: rgb(8, 132, 190);
-    }
+   
 *card{
     margin: 10px;
 }
